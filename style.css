@@ -1,0 +1,86 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+margin-top: 100px;
+}
+h1{
+    font-size: 220%;
+    color: rgb(95, 91, 91);
+    margin-left: 80px;
+    
+    
+}
+.clr-word{
+    color: gold;
+    font-size: larger;
+}
+.para{
+    padding-left: 80px;
+    font-size: 110%;
+}
+.link-button{
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-image: linear-gradient(rgb(17, 17, 11), rgb(4, 197, 255));
+    width: 50px;
+    margin-left: 80px;
+    border-radius: 25px;
+    padding: 10px;
+}
+.flex-container{
+    display: inline-flex;
+    
+}
+.first-sec-image{
+    margin-top: -80px;
+    width: 60%;
+    padding-left: 200px;
+
+}
+.title-para{
+    text-align: center;
+    margin-left: 500px;
+    padding-top: 250px;
+}
+.mid-para{
+text-align: center;
+padding-left: 500px;
+}
+.mid-sec{
+    background: url(images/frame\ new.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1300;
+    height: 500px;
+}
+.diet-plan{
+    width: 850px;
+    text-align: center;
+    margin-left: 150px;
+}
+.diet-programs{
+    display: flex;
+    margin-left: 10px; 
+    padding-right: 10px;  
+}
+
+.border{
+    border: rgb(255, 255, 255) solid 10px;
+    border-radius: 35px;
+    
+    
+}
+.border img{
+    width: 425px;
+    margin: ;
+}
+.border{
+    
+    margin-left: 25px;
+    box-shadow: black 2px 2px 25px 2px;
+}
+p{
+    text-align: center;
+}
+
